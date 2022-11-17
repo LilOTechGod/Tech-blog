@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS newtech_db;
+
+CREATE DATABASE newtech_db;
