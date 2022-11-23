@@ -1,0 +1,17 @@
+[
+    {
+        "content": "This is a comment",
+        "user_id": 1,
+        "post_id": 1
+    },
+    {
+        "content": "This is a also a comment",
+        "user_id": 2,
+        "post_id": 2
+    },
+    {
+        "content": "A bunch of comments",
+        "user_id": 3,
+        "post_id": 3
+    }
+]
