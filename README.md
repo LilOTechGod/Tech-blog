@@ -1,28 +1,38 @@
 # Tech-blog
-### Challenge #14 for UTA full-stack web development
+*Within Tech blog, you can share your thoughts over topics in the tech industry that others may want to read or learn about*.
 
-## User Story
+## User Story:
 
-In order to become a full stack developer, learning Sequelize is an important part especially since it makes the interface with the SQL database more straightforward than having to script out queries from scratch. There's still quite a bit under the hood but it overall makes the process significantly easier. The task was to build the back end for an e-commerce site,configure a working Express.js API to use Sequelize to interact with a MySQL database. Seed the database, then sync sequelize to the database so that you can test the routes. During the process I've becomed so much more familiar with how the Express.js API calls work, I become more and more confident with the back end of web development.
+As web developers know, writing about tech could be just as important as making it. Most developers invest some time reading and writing about technical concepts, recent advancements, and new technologies. Now a days a simple Google search for any concept you want to know more about, returns thousands of think pieces and tutorials from developers of all skill levels! The assignment here was to build a blog site where developers can publish their blog posts and comment on other developer's posts as well. Therefore you'll now give back to the open source community and share what you've learned helping others succeed, stay calm and thrive on!
 
-This is not a deplyed web page, instead watch the video in the usage secion for a demonstration on how the api routes function.
+**This is a deplyed web page**, [click Here to open the app](https://oscars-tech-blog.herokuapp.com/)
 
 
 ## Table of Contents
 
 - [Usage](#usage)
+- [Future Developments](#future-developments)
 - [Credits](#credits)
 - [License](#license)
 - [Badges](#badges)
 
-## Usage
+## Usage:
 
+
+
+## Future Developments:
+
+1. As for furture developments I would like to create a option button, that allows the user to create comments on an existing post.
+2. Edit the homepage as soon as you open the app to render an image containing the tech blogs logo.
+3. Get the log out button functionality to work properly.
+4. Give the blog a distinctive design.
+
+All of these issues will be applied soon! So stay tuned for the latest version, Thank you for your patience!
 
 ## Credits
 
-I want to give a shoutout to Leah, my instructor for help making more sense of how api routes and it's importance.
-Also thanks to my tutor Mr.Park. Team work makes the dream work!
-And my friend/peer Preston
+I want to give a shoutout to Leah, my instructor for help making more sense of how models, views, and controllers (MVC) operates and it's importance on how it all connects making the app function properly.
+Also thanks to my tutor Mr. Clements Team work makes the dream work!
 
 ## License
 
@@ -39,7 +49,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Badges
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/LilOTechGod/E-commerce-back-end/)
 
@@ -55,11 +64,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/LilOTechGod/github-profile-trophy)
 
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
