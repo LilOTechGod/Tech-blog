@@ -16,4 +16,10 @@ Comment.belongsTo(User, {
   onDelete: 'CASCADE',
 });
 
+User.hasMany(Post);
+
+User.hasMany(Comment);
+
+Comment.belongsTo(Post);
+
 module.exports = { User, Post, Comment};
