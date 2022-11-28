@@ -18,7 +18,7 @@ As web developers know, writing about tech could be just as important as making 
 
 ## Usage:
 
-#### Here's a quick demonstration on how the tech blog works, check it out!
+#### Here's a quick demonstration on how the tech blog works, check it out! Keep in mind that I was already signed up and just logged in the demo, therefore you have to sign up in order to see the main page.
 [Untitled_ Nov 28 2022 5_26 PM.webm](https://user-images.githubusercontent.com/112797175/204403555-266e8aee-f4a7-4c6f-aff3-f39535ac842f.webm)
 
 ## Future Developments:
