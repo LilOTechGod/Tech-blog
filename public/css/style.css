@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+
 header, .project:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
@@ -22,3 +27,16 @@ header, .project:not(:last-child) {
   font-weight: bold;
   margin-left: -5px;
 }
+ #homePage {
+  text-align: center;
+ }
+
+ .homeHeader {
+  font-size: 180px;
+  font-family: fantasy;
+    color: goldenrod;
+ }
+
+ .miniHeader {
+  color:grey
+ }
